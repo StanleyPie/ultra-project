@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deadline
+  - Wave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wave
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 343878777
+    locked: 0
+  - name: mound
+    uniqueID: 1090066995
+    locked: 0
+  - name: Mother
+    uniqueID: 1307674171
+    locked: 0
+  - name: Baby
+    uniqueID: 2423392867
+    locked: 0
+  - name: wave
+    uniqueID: 3567706173
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Deadline
+    uniqueID: 1980128317
+    locked: 0
+  - name: ui
+    uniqueID: 1330460439
+    locked: 0
